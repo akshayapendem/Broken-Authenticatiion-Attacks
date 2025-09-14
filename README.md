@@ -37,7 +37,6 @@ Session fixation attacks trick users into authenticating with a session ID provi
 - Prevent session ID tampering via URLs.
 - Invalidate old or unused session IDs.
 
----
 
 ## Brute Force Attack
 
@@ -64,5 +63,5 @@ This repository is for *educational and authorized testing only*. Never use thes
 ## References
 
 - [OWASP Top 10: Broken Authentication](https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication)
--Learnt from tryhackme rooms
+- Learnt from tryhackme rooms
 
